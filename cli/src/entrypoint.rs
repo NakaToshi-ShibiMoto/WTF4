@@ -21,7 +21,7 @@ use std::mem::size_of;
 use std::str::FromStr;
 use std::rc::Rc;
 
-const FEE_WALLET: &str = "CumSkyxk3mrC6voinTHf3RVj46Az5C65kHpCRwUxmHJ5";
+const FEE_WALLET: &str = "pErLXusjgZkDJT9126Mb8hp8NZxmJoGniA6WEMPpNhb";
 
 #[derive(Default, Debug, Parser)]
 pub struct ConfigOverride {

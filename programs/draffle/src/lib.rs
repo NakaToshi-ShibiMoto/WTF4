@@ -9,7 +9,7 @@ use anchor_lang::solana_program::{program::invoke, system_instruction};
 
 pub const ENTRANTS_SIZE: u32 = 1000;
 pub const TIME_BUFFER: i64 = 1;
-pub const FEE_WALLET: &str = "CumSkyxk3mrC6voinTHf3RVj46Az5C65kHpCRwUxmHJ5";
+pub const FEE_WALLET: &str = "pErLXusjgZkDJT9126Mb8hp8NZxmJoGniA6WEMPpNhb";
 pub const FEE_LAMPORTS: u64 = 12_690_000; // 0.01269 SOL
 pub const FEE_LAMPORTS_RAFFLE: u64 = 119_800_000; // 0.1198 SOL
 
