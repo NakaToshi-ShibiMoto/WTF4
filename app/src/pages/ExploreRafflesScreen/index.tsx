@@ -54,7 +54,7 @@ const ExploreRafflesScreen: FC = () => {
     return (
       <>
         <Typography variant="h1" className={classes.titleBar}>
-          More raffles will be coming soon!
+          WTF is coming soon!
         </Typography>
       </>
     );
