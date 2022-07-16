@@ -54,7 +54,7 @@ const ExploreRafflesScreen: FC = () => {
     return (
       <>
         <Typography variant="h1" className={classes.titleBar}>
-          WTF is coming soon!
+          WTF is coming soon??
         </Typography>
       </>
     );
