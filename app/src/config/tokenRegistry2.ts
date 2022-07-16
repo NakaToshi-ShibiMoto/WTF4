@@ -15,42 +15,44 @@ const tokenRegistry = {
       serumV3Usdc: '9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT',
       serumV3Usdt: 'HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1',
       coingeckoId: 'solana',
-      imageURI: '/resources/FIND SOL LOGO.png',
+      imageURI: '/resources/solana-logo.gif',
     },
   },
-  'CK5K8GUKSGt5u5aJ7wHfeiCTgWMhcEVgo5zxAQ42msv9': {
+  '29a6AWBP44QUnfZKNpWSU7tkfrfDBym94EtCZBPvJ2ao': {
     chainId: 101,
-    address: 'CK5K8GUKSGt5u5aJ7wHfeiCTgWMhcEVgo5zxAQ42msv9',
-    symbol: '$PNP',
-    name: 'Probably Nothing Potion',
-    decimals: 4,
-    logoURI:
-      'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CK5K8GUKSGt5u5aJ7wHfeiCTgWMhcEVgo5zxAQ42msv9/logo.png',
-    tags: [],
-    extensions: {
-      website: 'https://probablynothingclub.com',
-      twitter: 'https://twitter.com/pnsc420',
-    },
-  },
-  '9fEUHC3nUxSSizqbKNywyAqMHQrnbj29eHP29iAyhkN9': {
-    chainId: 101,
-    address: '9fEUHC3nUxSSizqbKNywyAqMHQrnbj29eHP29iAyhkN9',
-    symbol: '$PNP',
-    name: 'Probably Nothing TEST',
+    address: '29a6AWBP44QUnfZKNpWSU7tkfrfDBym94EtCZBPvJ2ao',
+    symbol: '$A',
+    name: 'A TOKEN',
     decimals: 9,
-    logoURI: `https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CK5K8GUKSGt5u5aJ7wHfeiCTgWMhcEVgo5zxAQ42msv9/logo.png`,
+    logoURI:
+      'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv/logo.png',
     tags: [],
     extensions: {
+      website: 'https://sollama.finance',
+      twitter: 'https://twitter.com/SollamaFinance',
     },
   },
-  '71we89pGW8Wazj7HbVbfTCz27a4rC1YjPA9r4H9rHPZu': {
+  '72UgZ7avdJZBbv3wR7hbWcFy6dyHHNAoJw7CimGA55Zh': {
     chainId: 101,
-    address: '71we89pGW8Wazj7HbVbfTCz27a4rC1YjPA9r4H9rHPZu',
-    symbol: 'PNSCNFT',
-    name: 'HIGH ROLLER NFT',
+    address: '72UgZ7avdJZBbv3wR7hbWcFy6dyHHNAoJw7CimGA55Zh',
+    symbol: '$PM1',
+    name: 'USDT',
+    decimals: 2,
+    logoURI: `${process.env.REACT_APP_URL}/tether-usdt-logo.png`,
+    tags: [],
+    extensions: {
+      website: 'https://sollama.finance',
+      twitter: 'https://twitter.com/SollamaFinance',
+    },
+  },
+  H32RbcbAoskfMVyPSTNQucEkYP2qvYLkmDg5ij4cPBhH: {
+    chainId: 101,
+    address: 'H32RbcbAoskfMVyPSTNQucEkYP2qvYLkmDg5ij4cPBhH',
+    symbol: 'PM2',
+    name: 'Prize Mint 2',
     decimals: 0,
     logoURI:
-      'https://monkelabs.nyc3.digitaloceanspaces.com/pnsc-high-rollers/images/3b79d343d3f6c668aa208b4686980556.png',
+      'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv/logo.png',
     tags: [],
     extensions: {
       website: 'https://sollama.finance',
