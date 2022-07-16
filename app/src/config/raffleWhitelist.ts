@@ -22,13 +22,13 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
- // [
-    //'sPcMGrTuiBz3dQ5kJu9MBj65E6qBqXpZ83VYxzMpFoj',
-    //{
-     // name: 'HIGH ROLLER #726 PNP RAFFLE',
-     // overviewImageUri: '/resources/PRIZE1.png',
-   // },
- // ],
+  [
+    'sPcMGrTuiBz3dQ5kJu9MBj65E6qBqXpZ83VYxzMpFoj',
+    {
+      name: 'HIGH ROLLER #726 PNP RAFFLE',
+      overviewImageUri: '/resources/PRIZE1.png',
+   },
+  ],
 //  [
     //'GeUFserhuyTrLQdANwHWrcREX866pBSUskHPXFxnUFt7',
    // {
