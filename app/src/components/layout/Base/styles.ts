@@ -5,7 +5,7 @@ export const useStyles = makeStyles((theme: Theme) => ({
   background: {
     width: '100vw',
     height: '100vh',
-    backgroundimage: '(../../../rafflebg.png)',
+    backgroundimage: 'url/(rafflebg.png)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
