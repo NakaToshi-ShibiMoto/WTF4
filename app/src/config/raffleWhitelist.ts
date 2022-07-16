@@ -29,13 +29,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/PRIZE1.png',
    },
   ],
-//  [
-    //'GeUFserhuyTrLQdANwHWrcREX866pBSUskHPXFxnUFt7',
-   // {
-    //  name: 'HIGH ROLLER #1080 SOL RAFFLE',
-   //   overviewImageUri: '/resources/PRIZE2.png',
-   // },
-//  ],
+ [
+    'GeUFserhuyTrLQdANwHWrcREX866pBSUskHPXFxnUFt7',
+    {
+      name: 'HIGH ROLLER #1080 SOL RAFFLE',
+      overviewImageUri: '/resources/PRIZE2.png',
+    },
+  ],
  // [
    // '7j1HKPQKfzwqw2toHB9Px3Tw75GVsPpfNDTRhQh8zfg7',
    // {
