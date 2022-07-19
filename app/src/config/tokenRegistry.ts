@@ -33,3 +33,16 @@ const tokenRegistry = {
     },
   },
 };
+
+export const tokenInfoMap = new Map(Object.entries(tokenRegistry));
+
+export const UNKNOWN_TOKEN_INFO = {
+  chainId: 101,
+  symbol: '???',
+  name: 'Unkown token',
+  decimals: 0,
+  logoURI:
+    'https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv/logo.png',
+  tags: [],
+  extensions: {},
+};
